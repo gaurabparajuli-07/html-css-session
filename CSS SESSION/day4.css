@@ -1,0 +1,25 @@
+.container{
+    background-color: teal;
+    padding: 20px;
+    color: white;
+}
+.item1{
+    background-color: bisque;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    width: 50px;
+    border-radius: 5px;
+    
+
+}
+.item2{ background-color: bisque;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    width: 50px;
+    border-radius: 5px;
+    margin-left: 1400px;
+
+}
+

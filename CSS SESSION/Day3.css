@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    font-family: 'Arial, sans-serif;
+}
+.Profile{
+    width: 450px;
+    border: 2px black dotted;
+    background-color: blue;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    /* padding : top,left,buttom,right */
+    margin:35px auto;
+    border-radius: 10px;
+}
+.Profile h1{
+    color:rgb(193, 13, 67)
+    }
+ button:hover{
+    background-color: green;
+ }
+button:focus{
+    background-color: aliceblue;
+}
+input:focus{
+    background-color: rgb(59, 100, 137);
+}

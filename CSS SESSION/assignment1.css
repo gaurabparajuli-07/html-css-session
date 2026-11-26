@@ -1,0 +1,103 @@
+.container1{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px;
+    justify-content: flex-start;
+}
+
+.circle1{
+    border-radius: 100%;
+    padding: 25px;
+    background-color: rgb(255, 77, 77);
+    color: white;
+    margin: 10px;
+}
+
+.container2{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px;
+    justify-content: flex-end;
+    margin-top: 20px;
+    
+}
+
+.circle2{
+    border-radius: 100%;
+    padding: 25px;
+    background-color: rgb(255, 77, 77);
+    color: white;
+    margin: 10px;
+}
+
+.container3{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+.circle3{
+    border-radius: 100%;
+    padding: 25px;
+    background-color: rgb(255, 77, 77);
+    color: white;
+    margin: 10px;
+}
+
+.container4{
+    display: flex;
+    background-color:blueviolet;
+    padding: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+
+.circle4{
+    border-radius: 100%;
+    padding: 25px;
+    background-color: rgb(255, 77, 77);
+    color: white;
+    margin: 10px;
+}
+
+.container5{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+}
+
+.circle5{
+    border-radius: 100%;
+    padding: 25px;
+    background-color:black;
+    color: white;
+    margin: 10px;
+}
+
+.container6{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 20px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+}
+
+.circle6{
+    border-radius: 100%;
+    padding: 25px;
+    background-color: rgb(255, 77, 77);
+    color: white;
+    margin: 10px;
+}
+
+p{
+    text-align: center;
+}
